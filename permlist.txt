@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"vmeyres":{"Rank":"Builder"},"Synarx":{"Rank":"Builder"}}
+{"vmeyres":{"Rank":"Builder"},"Synarx":{"Rank":"Builder"}}
