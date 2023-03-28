@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"Wizzard_Harriztral":{"Rank":"Admin"},"fbd_1":{"Rank":"Admin"},"HeroShiner45":{"Rank":"Developer"},"vmeyres":{"Rank":"Builder"},"carlthepersonguy":{"Rank":"Developer"},"Synarx":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"},"BRY402":{"Rank":"Builder"},"Wizzard_Harriztral":{"Rank":"Admin"},"fbd_1":{"Rank":"Admin"},"HeroShiner45":{"Rank":"Developer"},"vmeyres":{"Rank":"Builder"},"carlthepersonguy":{"Rank":"Developer"},"Synarx":{"Rank":"Builder"}}
