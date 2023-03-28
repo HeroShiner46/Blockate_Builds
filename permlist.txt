@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"Wizzard_Harriztral":{"Rank":"Admin"},"HeroShiner45":{"Rank":"Admin"},"vmeyres":{"Rank":"Builder"},"Synarx":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"},"Wizzard_Harriztral":{"Rank":"Admin"},"HeroShiner45":{"Rank":"Developer"},"vmeyres":{"Rank":"Builder"},"Synarx":{"Rank":"Builder"}}
