@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"BRY402":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"}}
