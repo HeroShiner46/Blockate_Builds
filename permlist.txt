@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"Synarx":{"Rank":"Admin"}}
+{"HeroShiner46":{"Rank":"Developer"},"BRY402":{"Rank":"Builder"},"Synarx":{"Rank":"Admin"}}
