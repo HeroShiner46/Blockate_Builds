@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"Wapplee1":{"Rank":"Admin"}}
+{"HeroShiner46":{"Rank":"Developer"}}
