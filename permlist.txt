@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"ImpulseFrag":{"Rank":"Tester"},"fbd_1":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"}}
