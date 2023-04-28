@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"calternitive":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"}}
