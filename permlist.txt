@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"Synarx":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"}}
