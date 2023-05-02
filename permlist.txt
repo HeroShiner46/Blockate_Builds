@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"bainchild":{"Rank":"Admin"}}
+{"HeroShiner46":{"Rank":"Developer"}}
