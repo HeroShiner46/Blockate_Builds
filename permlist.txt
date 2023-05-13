@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"MR_AZERET":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"},"MR_AZERET":{"Rank":"Builder"},"Gold3nF1r3":{"Rank":"Builder"}}
