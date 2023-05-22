@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"TJT01":{"Rank":"Builder"},"ImpulseFrag":{"Rank":"Builder"}}
+{"HeroShiner46":{"Rank":"Developer"}}
