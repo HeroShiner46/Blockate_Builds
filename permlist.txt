@@ -1,1 +1,1 @@
-{"HeroShiner46":{"Rank":"Developer"},"X32Gex5":{"TempRank":"Builder"},"GodOfPortal":{"Rank":"Builder"},"whexu":{"Rank":"Builder"},"Darkceius":{"Rank":"Admin"}}
+{"HeroShiner46":{"Rank":"Developer"}}
